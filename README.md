@@ -81,16 +81,16 @@ Interactive motion-recognition game built with Python, OpenCV, MediaPipe, and Ra
 
 | Date | Award / Scholarship | Institution | Status / Rank |
 | :--- | :--- | :--- | :--- |
-| **2026.02** | Presidential Science Scholarship Certificate | Korea Scholarship Foundation | Honors |
-| **2024.12** | Hanium ICT Mentoring Contest | Federation of Korean Information Industries | Finalist |
-| **2024.12** | Capstone Design Competition | Dankook University | Silver Award |
-| **2024.12** | Industry-Academia Capstone Design ECHO+ Competition | Dankook University | Encouragement Award |
-| **2024.11** | Intelligent Robot Consortium Creative Capstone Design | Hanyang University ERICA | Encouragement Award |
-| **2024.09** | Intelligent Robot Idea Competition | Dankook University | Excellence Award |
-| **2024.08** | The 23rd Intelligent Creative Robot Competition (3D) | Daejeon Metropolitan City | Grand Prize |
-| **2024.08** | The 25th National Line Tracer Competition | University of Seoul | Grand Excellence |
-| **2024.08** | The 19th National Intelligent Robot Competition | Dankook University | Excellence Award |
-| **2024.08** | The 23rd Intelligent Creative Robot Competition (2D) | Chungnam National University | Encouragement Award |
+| **2026.02** | Presidential Science Scholarship Certificate | Korea Scholarship Foundation | &#127942; Honors |
+| **2024.12** | Hanium ICT Mentoring Contest | Federation of Korean Information Industries | &#127941; Finalist |
+| **2024.12** | Capstone Design Competition | Dankook University | &#129352; Silver Award |
+| **2024.12** | Industry-Academia Capstone Design ECHO+ Competition | Dankook University | &#129353; Encouragement Award |
+| **2024.11** | Intelligent Robot Consortium Creative Capstone Design | Hanyang University ERICA | &#129353; Encouragement Award |
+| **2024.09** | Intelligent Robot Idea Competition | Dankook University | &#127941; Excellence Award |
+| **2024.08** | The 23rd Intelligent Creative Robot Competition (3D) | Daejeon Metropolitan City | &#127942; Grand Prize |
+| **2024.08** | The 25th National Line Tracer Competition | University of Seoul | &#127942; Grand Excellence |
+| **2024.08** | The 19th National Intelligent Robot Competition | Dankook University | &#127941; Excellence Award |
+| **2024.08** | The 23rd Intelligent Creative Robot Competition (2D) | Chungnam National University | &#129353; Encouragement Award |
 
 ---
 
