@@ -1,10 +1,11 @@
+<h1 align="center">🚀 Welcome to SeongHyeon's Workspace</h1>
+
 <p align="center">
-  <b>Welcome to SeongHyeon's Workspace</b><br>
   "Strive to become better than I was yesterday."
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongHyeon%20Cho&fontSize=40&animation=fadeIn" alt="Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongHyeon%20Cho&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%"/>
 </p>
 
 <p align="center">
