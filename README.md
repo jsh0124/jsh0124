@@ -1,11 +1,11 @@
-<h1 align="center">🚀 Welcome to SeongHyeon's Workspace</h1>
+<h1 align="center">&#128640; Welcome to SeongHyeon's Workspace</h1>
 
 <p align="center">
   "Strive to become better than I was yesterday."
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongHyeon%20Cho&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongHyeon%20Cho&fontSize=52&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%"/>
 </p>
 
 <p align="center">
@@ -19,10 +19,10 @@
 
 ## About Me
 
-- **Education:** Dankook University, Electrical and Electronic Engineering (GPA: 4.32 / 4.5)
-- **Interests:** Power Electronics, Motor Control, Embedded Robotic Systems
-- **MAZE Robotics Club:** Member since 2021, Vice President from Sep. 2024 to Jun. 2025
-- **CV:** See my [CV PDF](https://github.com/jsh0124/CV/blob/main/MY_CV.pdf) for more detailed experience.
+- &#127891; **Education:** Dankook University, Electrical and Electronic Engineering (GPA: 4.32 / 4.5)
+- &#128269; **Interests:** Power Electronics, Motor Control, Embedded Robotic Systems
+- &#129302; **MAZE Robotics Club:** Member since 2021, Vice President from Sep. 2024 to Jun. 2025
+- &#128196; **CV:** See my [CV PDF](https://github.com/jsh0124/CV/blob/main/MY_CV.pdf) for more detailed experience.
 
 ---
 
