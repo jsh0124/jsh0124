@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongHyeon%20Cho&fontSize=52&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b4b&height=200&section=header&text=SeongHyeon%20Cho&fontSize=52&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%"/>
 </p>
 
 <p align="center">
